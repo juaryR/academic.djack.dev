@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "Juary Rocha / Academic description"
+title                    : "Juary Rocha, BEng"
 title_separator          : "-"
 name                     : &name "Juary Rocha"
-description              : &description "personal description"
+description              : &description "Be happy"
 url                      : https://www.academic.djack.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "github.com/juaryR/academic.djack.dev"
@@ -59,7 +59,7 @@ yandex_site_verification :
 twitter:
   username               : &twitter
 facebook:
-  username               :
+  username               : juary.rocha.7
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -82,12 +82,14 @@ analytics:
 author:
   name             : "Juary Costa Rocha"
   avatar           : "Foto_3x4.jpg"
-  bio              : "Aprendendo todo dia algo novo"
+  bio              : "Técnico em Eletrotecnia/Eletrônica pela Escola Industrial e Comercial do Mindelo,
+    Cabo Verde. Graduando em Engenheira de Energia na Universidade Federal Santa Catarina
+    Brasil. Membro de Lab. Sistemas de Conhecimento (LSC) "
   location         : "Araranguá"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            :
+  email            : "juary_academic@djack.cv"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +111,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
