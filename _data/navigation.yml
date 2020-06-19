@@ -1,20 +1,20 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publicações"
     url: /
     # url: /publications/
 
-  - title: "Talks"
+  - title: "Palestras"
     # url: /talks/    
 
   # - title: "Teaching"
     # url: /teaching/    
     # 
-  - title: "Portfolio"
+  - title: "Portfólio"
     # url: /portfolio/
     url: /
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     url: /
     
