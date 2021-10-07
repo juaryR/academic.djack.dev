@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Juary Costa Rocha"
   avatar           : "Foto_3x4.jpg"
-  bio              : "Técnico em eletrotécnica pela Escola Industrial e Comercial do Mindelo,
-    Cabo Verde. Graduando em Engenharia de Energia na Universidade Federal Santa Catarina,
-    Brasil. Membro de Lab. Sistemas de Conhecimento (LSC) "
+  bio              : "Graduado em Engenharia de Energia na Universidade Federal Santa Catarina,
+    Brasil. Técnico em eletrotécnica pela Escola Industrial e Comercial do Mindelo,
+    Cabo Verde. Membro de Lab. Sistemas de Conhecimento (LSC)  e Mídia-Educação e Comunicação Educacional (COMUNIC) "
   location         : "Araranguá"
   employer         :
   pubmed           :
   googlescholar    : 
-  email            : "juary_academic@djack.cv"
+  email            : "contact@djack.dev"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -104,14 +104,14 @@ author:
   instagram        : "rocha_djack"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : linkedin.com/in/juary-rocha-68027571
   orcid            : https://orcid.org/0000-0001-7028-6524
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "DjackRocha"
   vine             :
   weibo            :
   xing             :
@@ -222,7 +222,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: ""
+      path: "publications"
       type: publications
     values:
       layout: single
