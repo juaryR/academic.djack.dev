@@ -222,7 +222,7 @@ defaults:
       comments: true
   # _publications
   - scope:
-      path: "publications"
+      path: "publication"
       type: publications
     values:
       layout: single

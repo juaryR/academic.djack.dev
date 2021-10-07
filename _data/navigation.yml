@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publicações"
-    url:  /markdown/
-    # url: /publications/
+    #url:  /markdown/
+    url: /publications/
 
   - title: "Palestras"
     url: /markdown/ 
