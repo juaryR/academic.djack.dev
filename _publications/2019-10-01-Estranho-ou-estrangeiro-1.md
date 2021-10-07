@@ -5,9 +5,9 @@ permalink: /publication/2019-10-01-Estranho-ou-estrangeiro-1
 excerpt: 'O presente artigo tem como finalidade apresentar e analisar os resultados obtidos durante a
 implementação do projeto de extensão “Estranhos ou Estrangeiros” nas escolas localizadas na cidade de
 Araranguá em Santa Catarina.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 2019-09-20
+venue: 'SICT-Sul'
+paperurl: 'https://www.academic.djack.dev/files/Artigo_Estranhos_ou_Estrangeiros.pdf'
 citation: '
 MUPENZA, J. M. ; ROCHA, J. C. ; MADRUGA, K. C. R. . ESTRANHOS OU ESTRANGEIROS: FOMENTANDO A RECEPÇÃO A DIVERSIDADE CULTURAL NAS ESCOLAS DE ARARANGUÁ. In: 8º Simpósio de Integração Científica e Tecnológica do Sul Catarinense - SICT-Sul, 2019, Santa Rosa do Sul. 8º Simpósio de Integração Científica e Tecnológica do Sul Catarinense - SICT-Sul, 2019. p. 918-925.
 '
