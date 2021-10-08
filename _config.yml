@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "pt"
-title                    : "Juary Rocha,BEng"
+title                    : "Juary Rocha, BEng."
 title_separator          : "-"
 name                     : &name "Juary Rocha"
 description              : &description "Be happy"
@@ -84,7 +84,7 @@ author:
   avatar           : "Foto_3x4.jpg"
   bio              : "Graduação em Engenharia de Energia pela Universidade Federal Santa Catarina,
     Brasil. Técnico em eletrotécnica pela Escola Industrial e Comercial do Mindelo,
-    Cabo Verde. Membro de Lab. Sistemas de Conhecimento (LSC) e da Grupo pesquisa,  Mídia-Educação e Comunicação Educacional (COMUNIC)."
+    Cabo Verde. Membro de Lab. Sistemas de Conhecimento (LSC) e do grupo pesquisa de Mídia-Educação e Comunicação Educacional (COMUNIC)."
   location         : "Planet Earth"
   employer         :
   pubmed           :
