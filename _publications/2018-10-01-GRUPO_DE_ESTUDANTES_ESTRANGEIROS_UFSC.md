@@ -1,5 +1,5 @@
 ---
-title: "GRUPO DE ESTUDANTES ESTRANGEIROS UFSC: diversidade cultural e a aplicação de um jogo educacional sobre o continente africano"
+title: "GRUPO DE ESTUDANTES ESTRANGEIROS UFSC: diversidade cultural e a aplicação de um jogo educacional sobre o continente africano."
 collection: publications
 permalink: /publication/2018-10-01-GRUPO_DE_ESTUDANTES_ESTRANGEIROS_UFSC
 excerpt: 'Este artigo relata a experiência do uso de jogos educacionais para o aprendizado sobre geografia, cultura e história de países africanos.'
