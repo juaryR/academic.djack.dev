@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "pt"
-title                    : "Juary Rocha, BEng."
+title                    : "Eng. JRocha"
 title_separator          : "-"
-name                     : &name "Juary Rocha"
+name                     : &name "Juary Costa Rocha"
 description              : &description "Be happy"
 url                      : https://www.academic.djack.dev # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
