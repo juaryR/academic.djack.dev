@@ -27,5 +27,3 @@ para a discussão nas escolas brasileiras sobre a diversidade cultural, especial
 foram verificados por meio da participação dos alunos nas discussões e seus depoimentos por escrito.
 
 [Download paper here](https://www.academic.djack.dev/files/Artigo_Estranhos_ou_Estrangeiros.pdf)
-
-MUPENZA, J. M. ; ROCHA, J. C. ; MADRUGA, K. C. R. . ESTRANHOS OU ESTRANGEIROS: FOMENTANDO A RECEPÇÃO A DIVERSIDADE CULTURAL NAS ESCOLAS DE ARARANGUÁ. In: 8º Simpósio de Integração Científica e Tecnológica do Sul Catarinense - SICT-Sul, 2019, Santa Rosa do Sul. 8º Simpósio de Integração Científica e Tecnológica do Sul Catarinense - SICT-Sul, 2019. p. 918-925.
