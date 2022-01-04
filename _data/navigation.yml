@@ -1,27 +1,25 @@
 # main links links
 main:
+  - title: "Projetos"
+    url: /projects/ 
+    
   - title: "Publicações"
-    #url:  /markdown/
     url: /publications/
 
-  - title: "Palestras"
-    url: /markdown/ 
 
   # - title: "Teaching"
     # url: /teaching/    
     # 
-  - title: "Portfólio"
+  #- title: "Portfólio"
     # url: /portfolio/
-    url: /markdown/ 
+   # url: /markdown/ 
 
         
-  - title: "Blog"
+  #- title: "Blog"
     # url: /year-archive/
-    url: /markdown/ 
+   # url: /markdown/ 
     
-  - title: "CV"
-    url: /markdown/ 
+  #- title: "CV"
+    #url: /markdown/ 
     # url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
