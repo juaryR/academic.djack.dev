@@ -6,6 +6,8 @@ main:
   - title: "Publicações"
     url: /publications/
 
+  - title: "Blog"
+    url: /year-archive/
 
   # - title: "Teaching"
     # url: /teaching/    
@@ -15,9 +17,7 @@ main:
    # url: /markdown/ 
 
         
-  #- title: "Blog"
-    # url: /year-archive/
-   # url: /markdown/ 
+
     
   #- title: "CV"
     #url: /markdown/ 
