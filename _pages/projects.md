@@ -4,6 +4,13 @@ title: " "
 permalink: /projects/
 author_profile: true
 ---
+## GT-LANSE: Learning Analytics como Serviço para Predição de Risco Acadêmico
+ (2022 - Atual)
+
+* **Discrição**:  Serviço de predição de risco acadêmico (evasão e/ou reprovação) apoiada por uma infraestrutura na nuvem que pré processa dados, treina e executa algoritmos de machine learning...
+* **Situação**: Em andamento;
+* **Natureza**: Desenvolvimento;
+* **Site**: <a href ="https://lanse.rnp.br/" target="_blank">https://lanse.rnp.br/</a>.
 
 ## Conexão Escola-Mundo (2018 - 2021)
 
