@@ -11,6 +11,15 @@ author_profile: true
 * **Natureza**: Desenvolvimento;
 * **Site**: <a href ="https://lanse.rnp.br/" target="_blank">https://lanse.rnp.br/</a>.
 
+## ORION SOLAR CAR: Solar Car to race on internacional Bridgestone World Solar Challenge (2021 - Atual)
+
+* **Discrição**:  ORION SOLAR CAR, es un proyecto de la empresa Tree Tech SAS, en la rama del Centro de Innovación. Se busca con este proyecto piloto demostrar una alternativa para la generación de oportunidades de aprendizaje y laborales a jóvenes colombianos, mediante la construcción de un carro solar, el cual será inicialmente presentado a la competencia internacional Bridgestone World Solar Challenge, un evento donde se colocará a prueba lo que será una propuesta al sector movilidad y energía de Colombia, pero sobre todo resaltar el factor clave para que este proyecto sea exitoso y es educación...
+* **Situação**: Em andamento;
+* **Natureza**: Desenvolvimento;
+* **Site**: <a href ="https://www.orionsolarcar.com/" target="_blank">https://www.orionsolarcar.com/</a>.
+
+
+
 ## Conexão Escola-Mundo (2018 - 2021)
 
 * **Discrição**: Espaços inovadores para formação cidadã: Universidade e escola estão juntas na experimentação de um paradigma alternativo de educação que trata da formação de cidadãos para os direitos humanos através da imersão na cultura digital em uma perspectiva ativista de empoderamento, autoria e produção colaborativa que é característica da cultura hacker. Projeto com articulação multidisciplinar, nacional e internacional, com linhas de pesquisa como: 1) Escola hacker/educação hacker; 2) Educação para a cidadania e direitos humanos na cultura digital; 3) Formação de Professores; 4) Políticas públicas em educação e institucionalização (da educação hacker em DH); 5) (Uso e desenvolvimento de) Ferramentas digitais da educação hacker.
