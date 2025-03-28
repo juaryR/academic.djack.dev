@@ -1,8 +1,16 @@
-# main links links
+# The following is the order of the links in the header of the website.
+#
+# Changing the order here will adjust the order and you can also add additional
+# links. Removing a link prevents it from showing in the header, but does not
+# prevent it from being included in the site.
+#
+# NOTE that only one of the CV options should be selected, the first is for the
+#      Markdown formatted page while the second is generated using JSON.
+
 main:
   - title: "Projetos"
-    url: /projects/ 
-    
+    url: /projects/
+
   - title: "Publicações"
     url: /publications/
 
@@ -10,16 +18,16 @@ main:
     url: /year-archive/
 
   # - title: "Teaching"
-    # url: /teaching/    
-    # 
+    # url: /teaching/
+    #
   #- title: "Portfólio"
     # url: /portfolio/
-   # url: /markdown/ 
+   # url: /markdown/
 
-        
 
-    
+
+
   #- title: "CV"
-    #url: /markdown/ 
+    #url: /markdown/
     # url: /cv/
-    
+

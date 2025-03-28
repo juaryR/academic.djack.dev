@@ -2,7 +2,7 @@
 permalink: /markdown/
 title: "Work in progress"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /md/
   - /markdown.html
 ---
