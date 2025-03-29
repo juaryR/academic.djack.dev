@@ -10,9 +10,9 @@ redirect_from:
 
 ### De Cabo Verde ao Brasil: minha trajetória
 
-Sou cabo-verdiano, nascido na terra da  [morabeza][1], mais precisamente na ilha de São Vicente. Desde cedo, sempre fui curioso e apaixonado por entender como as coisas funcionam — da eletricidade nas casas aos sistemas mais complexos que movem o mundo moderno. Esse interesse me levou a cursar o ensino técnico em Eletrotécnica/Eletrônica na Escola Industrial e Comercial do Mindelo – Guilherme Dias Chantre (EICM-GDC), onde tive meu primeiro contato mais sólido com o universo da tecnologia e da engenharia.
+Cabo-verdiano, nascido na terra da  [morabeza][1], ilha de São Vicente. Desde cedo, sempre fui curioso e apaixonado por entender como as coisas funcionam — da eletricidade nas casas aos sistemas mais complexos que movem o mundo moderno. Esse interesse me levou a cursar o ensino técnico em Eletrotécnica/Eletrônica na Escola Industrial e Comercial do Mindelo – Guilherme Dias Chantre (EICM-GDC), onde tive meu primeiro contato com o universo da tecnologia e da engenharia.
 
-Depois de concluir o curso técnico, ingressei na Universidade de Cabo Verde (Uni-CV) para estudar Engenharia Electrotécnica. No entanto, minha jornada tomou um novo rumo em 2013, quando fui contemplado com uma vaga e bolsa de estudos para cursar Engenharia de Energia na Universidade Federal de Santa Catarina (UFSC), no Brasil. Foi um momento de grande virada, tanto pessoal quanto acadêmica, que me motivou a encarar o desafio de viver em um novo país, com uma nova cultura, e me reinventar.
+Depois de concluir o curso técnico, ingressei na Universidade de Cabo Verde (Uni-CV) para estudar Engenharia Electrotécnica. No entanto, minha jornada tomou um novo rumo em 2013, quando fui contemplado com uma  bolsa de estudos para cursar Engenharia de Energia na Universidade Federal de Santa Catarina (UFSC), no Brasil. Foi um momento de grande virada, tanto pessoal quanto acadêmica, que me motivou a encarar o desafio de viver em um novo país, com uma nova cultura, e me reinventar.
 
 ---
 
