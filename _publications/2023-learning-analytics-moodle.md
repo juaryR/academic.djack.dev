@@ -5,7 +5,7 @@ permalink: /publication/2023-learning-analytics-moodle
 excerpt: 'Este trabalho apresenta uma solução escalável baseada em computação em nuvem para análise de dados educacionais e predição de risco acadêmico no Moodle, aplicada ao contexto de instituições de ensino brasileiras.'
 date: 2023-11-01
 venue: 'Workshop de Aplicações Práticas de Learning Analytics em Instituições de Ensino no Brasil (WAPLA)'
-paperurl: 'https://sol.sbc.org.br/index.php/wapla/article/view/27675'
+paperurl: 'https://sol.sbc.org.br/index.php/wapla/article/view/26136'
 citation: '
 Cechinel, C., Queiroga, E. M., Primo, T. T., Ramos, V. F. C., Muñoz, R., Machado, M., ... & Almeida, J. (2023, November). Learning analytics para moodle em uma arquitetura na nuvem: uma solução escalável para predição de risco academico. In Workshop de Aplicações Práticas de Learning Analytics em Instituições de Ensino no Brasil (WAPLA) (pp. 128–137). SBC.
 '
