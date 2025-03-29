@@ -8,12 +8,32 @@ redirect_from:
   - /about.html
 ---
 
-Cabo-verdiano da terra [morabeza][1]. Me mudei para o Brasil em 2013 para cursar Engenharia de Energia. Sou técnico em eletrotécnica/eletrônica pela  Escola Industrial e Comercial do Mindelo - Guilherme Dias Chantre (EICM-GDC). Após concluir o técnico, ingressei na Universidade de Cabo Verde para fazer Engenharia Electrotécnica mas acabei abandonando, após conseguir uma vaga/bolsa  na  Universidade Federal de Santa Catarina (UFSC), Brasil, no curso  de Engenharia de Energia. Na UFSC virei amante das tecnologias de informação e comunicação  e por curiosidade acabei entrando no Laboratório Sistemas de Conhecimento (LSC), na qual aprendi muito sobre Tecnologias de Informação e Comunicação (TICs). Na UFSC tive a oportunidade de ser bolsista do CNPq no âmbito do projeto **Conexão Escola Mundo**, onde implementamos e desenvolvemos soluções open source para a educação, no âmbito de uma perspectiva hacker. Procuro aplicar conhecimentos do curso de Energia em conjunto com os TI, explorando aplicação de DevOps.
-Atualmente entrei no Programa de Pós-Graduação em Computação para fazer Mestrado e estou participando de um projeto na [RNP][2] para o desenvolvimento de um serviço de Learning Analytics para Predição de Risco Acadêmico.
+### De Cabo Verde ao Brasil: minha trajetória
+
+Sou cabo-verdiano, nascido na terra da  [morabeza][1], mais precisamente na ilha de São Vicente. Desde cedo, sempre fui curioso e apaixonado por entender como as coisas funcionam — da eletricidade nas casas aos sistemas mais complexos que movem o mundo moderno. Esse interesse me levou a cursar o ensino técnico em Eletrotécnica/Eletrônica na Escola Industrial e Comercial do Mindelo – Guilherme Dias Chantre (EICM-GDC), onde tive meu primeiro contato mais sólido com o universo da tecnologia e da engenharia.
+
+Depois de concluir o curso técnico, ingressei na Universidade de Cabo Verde (Uni-CV) para estudar Engenharia Electrotécnica. No entanto, minha jornada tomou um novo rumo em 2013, quando fui contemplado com uma vaga e bolsa de estudos para cursar Engenharia de Energia na Universidade Federal de Santa Catarina (UFSC), no Brasil. Foi um momento de grande virada, tanto pessoal quanto acadêmica, que me motivou a encarar o desafio de viver em um novo país, com uma nova cultura, e me reinventar.
+
+---
+
+### Formação acadêmica e paixão por tecnologia
+
+Durante o curso de Engenharia de Energia na UFSC, comecei a me interessar cada vez mais pelas Tecnologias da Informação e Comunicação (TICs). Esse interesse surgiu de forma orgânica, motivado por uma curiosidade natural e o desejo de explorar outras formas de aplicar o conhecimento técnico em contextos sociais e educacionais.
+
+Foi assim que entrei para o Laboratório Sistemas de Conhecimento (LSC), onde tive a oportunidade de trabalhar com software livre, dados e tecnologias educacionais. Um dos momentos mais marcantes dessa fase foi minha participação como bolsista CNPq no projeto **Conexão Escola Mundo**, em que desenvolvemos soluções open source para escolas públicas, com uma abordagem hacker e colaborativa. Essa experiência me mostrou o potencial transformador da tecnologia quando usada de forma criativa e acessível.
+
+Com o tempo, percebi que queria aprofundar meus conhecimentos em computação. Isso me levou a ingressar no Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas (UFPel), onde concluí o mestrado em 2025. Durante o mestrado, me envolvi com temas ligados a **Learning Analytics**, especialmente no contexto da **Predição de Risco Acadêmico**, e participei de um projeto nacional em parceria com a **RNP (Rede Nacional de Ensino e Pesquisa)**.
+
+---
+
+### Experiência profissional e perspectivas
+
+Atualmente, atuo há dois anos na empresa **v360**, integrando o time de infraestrutura, com foco em soluções em nuvem, automação e práticas de DevOps. Tenho trabalhado diretamente no desenho e na implementação de arquiteturas escaláveis, seguras e resilientes — combinando minha base em engenharia com a experiência adquirida em TICs e ciência de dados.
+
+Além do trabalho técnico, também estou me dedicando a aprender espanhol, buscando ampliar minha comunicação e atuação em contextos internacionais. Gosto de explorar intersecções entre áreas, como energia, dados e educação, e acredito no poder da tecnologia para construir soluções sustentáveis e socialmente relevantes.
+
+---
 
 
-
-  Hoje vago entre dois mundos, **TIC** e  **Energia**, um dia espero juntar os dois.
-
-  [1]:https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/o-regionalismo-morabeza-cabo-verde/24609
-  [2]:https://www.rnp.br/
+[1]:https://ciberduvidas.iscte-iul.pt/consultorio/perguntas/o-regionalismo-morabeza-cabo-verde/24609
+[2]:https://www.rnp.br/
