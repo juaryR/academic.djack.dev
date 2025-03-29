@@ -2,7 +2,7 @@
 title: "Educational data pre-processing from a domain-specific approach"
 collection: publications
 permalink: /publication/2022-Educacional-data-pre-processing
-excerpt: 'A taxa de reprovação em turmas de introdução à programação é de 33%, em média. No Brasil, esse número chega a 50%. Essa taxa é atribuída a diversos fatores, sejam eles fatores internos (aprender uma linguagem com regras sintáticas e léxicas, desenvolver o raciocínio lógico e a resolução de problemas) ou externos (falta de infraestrutura e alta carga de trabalho).'
+excerpt: 'Los procesos de análisis de datos requieren preprocesamiento antes de la aplicación de técnicas o algoritmos, con el fin de incrementar la calidad de estos y adecuarlos a los formatos necesarios para su procesamiento, principalmente cuando los datos provienen de diferentes fuentes.'
 date: 2022-10-01
 venue: 'Respuestas'
 paperurl: 'https://revistas.ufps.edu.co/index.php/respuestas/article/view/3113'
