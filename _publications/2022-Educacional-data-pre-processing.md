@@ -3,7 +3,7 @@ title: "Educational data pre-processing from a domain-specific approach"
 collection: publications
 permalink: /publication/2022-Educacional-data-pre-processing
 excerpt: 'A taxa de reprovação em turmas de introdução à programação é de 33%, em média. No Brasil, esse número chega a 50%. Essa taxa é atribuída a diversos fatores, sejam eles fatores internos (aprender uma linguagem com regras sintáticas e léxicas, desenvolver o raciocínio lógico e a resolução de problemas) ou externos (falta de infraestrutura e alta carga de trabalho).'
-date: 2022
+date: 2022-10-01
 venue: 'Respuestas'
 paperurl: 'https://revistas.ufps.edu.co/index.php/respuestas/article/view/3113'
 citation: '
