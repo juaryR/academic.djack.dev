@@ -22,7 +22,7 @@ Durante o curso de Engenharia de Energia na UFSC, comecei a me interessar cada v
 
 Foi assim que entrei para o Laboratório Sistemas de Conhecimento (LSC), onde tive a oportunidade de trabalhar com software livre, dados e tecnologias educacionais. Um dos momentos mais marcantes dessa fase foi minha participação como bolsista CNPq no projeto **Conexão Escola Mundo**, em que desenvolvemos soluções open source para escolas públicas, com uma abordagem hacker e colaborativa. Essa experiência me mostrou o potencial transformador da tecnologia quando usada de forma criativa e acessível.
 
-Com o tempo, percebi que queria aprofundar meus conhecimentos em computação. Isso me levou a ingressar no Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas (UFPel), onde concluí o mestrado em 2025. Durante o mestrado, me envolvi com temas ligados a **Learning Analytics**, especialmente no contexto da **Predição de Risco Acadêmico**, e participei de um projeto nacional em parceria com a **RNP (Rede Nacional de Ensino e Pesquisa)**.
+Com o tempo, percebi que queria aprofundar meus conhecimentos em computação. Isso me levou a ingressar no Programa de Pós-Graduação em Computação da Universidade Federal de Pelotas (UFPel), onde concluí o mestrado em 2025. Durante o mestrado, me envolvi com temas ligados a **Learning Analytics**, especialmente no contexto da **Predição de Risco Acadêmico**, e participei de um projeto nacional em parceria com a **[RNP][2] (Rede Nacional de Ensino e Pesquisa)**.
 
 ---
 
